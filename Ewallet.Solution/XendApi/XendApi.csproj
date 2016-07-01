@@ -57,6 +57,7 @@
     <Compile Include="Infrastructure\DataRequester\XendDataManager.cs" />
     <Compile Include="Infrastructure\Xdata.cs" />
     <Compile Include="Interface\IAuthenticate.cs" />
+    <Compile Include="Interface\Interface1.cs" />
     <Compile Include="Interface\IRequestAddress.cs" />
     <Compile Include="Interface\IXend.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
