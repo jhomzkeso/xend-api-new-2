@@ -8,5 +8,8 @@ namespace XendApi.Interface
 {
     interface Interface2
     {
+        string GetName { get; }
+
+        string GetLastName { get; }
     }
 }
